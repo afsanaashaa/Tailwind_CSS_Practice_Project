@@ -1,5 +1,4 @@
 # 🍃 Natures Platter 🍽️
 
-- 📁 **Figma File** – Design inspiration 💡  
-- 🖼️ **Images** – Assets for your visuals 🖌️  
-
+##link to Website:
+https://afsanaashaa.github.io/Tailwind_CSS_Practice_Project/
